@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TAE_Retrofit</string>
+
+    <string name="login">login</string>
+
+    <string name="name">name</string>
+    <string name="owner_login">owner login</string>
+    <string name="id">id</string>
+    <string name="owner">owner</string>
+</resources>
